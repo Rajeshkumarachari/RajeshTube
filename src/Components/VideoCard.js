@@ -3,7 +3,7 @@ import React from "react";
 const VideoCard = ({ info }) => {
   //const { snippet, statistics } = info;
   //const { channelTitle, thumbnails, title } = snippet;
-  console.log(info);
+
   return (
     <div className="p-2 m-2 w-72 shadow-lg">
       <img
