@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajeshtube/static/css/main.734458a6.css",
+    "main.js": "/rajeshtube/static/js/main.96bedc82.js",
+    "static/js/787.ca673736.chunk.js": "/rajeshtube/static/js/787.ca673736.chunk.js",
+    "index.html": "/rajeshtube/index.html",
+    "main.734458a6.css.map": "/rajeshtube/static/css/main.734458a6.css.map",
+    "main.96bedc82.js.map": "/rajeshtube/static/js/main.96bedc82.js.map",
+    "787.ca673736.chunk.js.map": "/rajeshtube/static/js/787.ca673736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734458a6.css",
+    "static/js/main.96bedc82.js"
+  ]
+}
