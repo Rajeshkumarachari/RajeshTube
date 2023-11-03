@@ -6,36 +6,36 @@ const commentsData = [
     text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
     replies: [
       {
-        name: "Rajesh",
+        name: "Jaikumr",
         text: "Sir Does prior react js knowlege require to follow this series kindly reply bhaiya By the way loving your content and learning many things from you ❤️",
         replies: [],
       },
       {
-        name: "Rajesh",
+        name: "Vijay",
         text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
         replies: [
           {
-            name: "Rajesh",
+            name: "Kiran",
             text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
             replies: [
               {
-                name: "Rajesh",
+                name: "Elakatur",
                 text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
                 replies: [
                   {
-                    name: "Rajesh",
+                    name: "Jaani",
                     text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
                     replies: [],
                   },
                   {
-                    name: "Rajesh",
+                    name: "Bhanu",
                     text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
                     replies: [],
                   },
                 ],
               },
               {
-                name: "Rajesh",
+                name: "Muni",
                 text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
                 replies: [],
               },
@@ -50,14 +50,19 @@ const commentsData = [
     text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
     replies: [
       {
-        name: "Rajesh",
+        name: "Vamshi",
         text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
         replies: [],
       },
     ],
   },
   {
-    name: "Rajesh",
+    name: "Naresh",
+    text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
+    replies: [],
+  },
+  {
+    name: "Dinesh",
     text: "Good videos like it Thank you so much sir for telling us the concept of DOT, Its working , great",
     replies: [],
   },
