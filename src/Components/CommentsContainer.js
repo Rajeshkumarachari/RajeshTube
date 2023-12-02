@@ -88,7 +88,7 @@ const CommentsList = ({ comments }) => {
   return comments.map((comment, index) => (
     <div key={index}>
       <Comment data={comment} />
-      <div className="pl-5 border botder-l-black ml-5">
+      <div className="pl-5 border w-[700px] sm:w-full botder-l-black ml-5">
         <CommentsList comments={comment.replies} />
       </div>
     </div>

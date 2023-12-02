@@ -8,7 +8,7 @@ const Sidebar = () => {
   if (!isMenuOpen) return null;
 
   return (
-    <div className="p-6 shadow-lg  w-48 ">
+    <div className="p-6 shadow-lg w-32 sm:w-48 ">
       <ul className=" text-center font text-md">
         <li className=" cursor-pointer hover:bg-gray-200  rounded-md my-1 p-2 ">
           <Link to="/">Home</Link>
