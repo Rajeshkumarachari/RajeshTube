@@ -5,7 +5,7 @@ import VideoContainer from "./VideoContainer";
 const MainContainer = () => {
   return (
     <div className=" col-span-2 sm:col-span-10">
-      <ButtonList />
+      <ButtonList className="  w-screen max-w-full overflow-hidden" />
       <VideoContainer />
     </div>
   );
